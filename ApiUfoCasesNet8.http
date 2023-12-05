@@ -1,0 +1,6 @@
+@ApiUfoCasesNet8_HostAddress = http://localhost:5034
+
+GET {{ApiUfoCasesNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
