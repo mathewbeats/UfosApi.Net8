@@ -43,7 +43,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obten
 
 ¡Esperamos que esta API de casos de OVNIs sea útil para tu proyecto! Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto.
 
-go
-Copy code
 
 Puedes copiar y pegar este contenido en un archivo README.md en tu repositorio. Recuerda reemplazar `url_de_la_imagen_del_ufo`, `tu_usuario`, y cualquier otra información relevante con tus propios detalles. Siéntete libre de personalizar aún más el contenido según tus necesidades.
